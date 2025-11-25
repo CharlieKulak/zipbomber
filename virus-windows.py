@@ -1,4 +1,4 @@
-mport time
+import time
 import os
 
 askscoop = input("Yo, do you have scoop installed? (Y/N)")
